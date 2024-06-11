@@ -1,0 +1,52 @@
+[
+    {
+        "Id": "1",
+        "cover": "https://i.ibb.co/LpN4S2s/overhead-view-businesswoman-working-computer-office-place-your-text-ideal-blog-flat-lay-white-backgr.jpg",
+        "title": "The Enchanted Forest",
+        "author": "Ava Harper",
+        "author-img": "https://i.ibb.co/f4MCDyV/portrait-cheerful-photographer-studio.jpg",
+        "post-date": "2024-01-15",
+        "reading time": "7 min",
+        "hashtag": ["fantasy", "adventure", "magic"]
+    },
+    {
+        "Id": "2",
+        "cover": "https://i.ibb.co/BscsScb/517071-PIXH41-841.jpg",
+        "title": "Modern Robotics",
+        "author": "Liam Bennett",
+        "author-img": "https://i.ibb.co/Cz9rY8F/young-woman-taking-photos.jpg",
+        "post-date": "2024-02-20",
+        "reading time": "10 min",
+        "hashtag": ["technology", "robotics", "innovation"]
+    },
+    {
+        "Id": "3",
+        "cover": "https://i.ibb.co/HC90V6D/attractive-smart-beautiful-asian-female-well-dress-communication-smartphone-with-cheerful-confident.jpg",
+        "title": "Culinary Travels",
+        "author": "Olivia Martin",
+        "author-img": "https://i.ibb.co/f4MCDyV/portrait-cheerful-photographer-studio.jpg",
+        "post-date": "2024-03-05",
+        "reading time": "8 min",
+        "hashtag": ["food", "travel", "recipes"]
+    },
+    {
+        "Id": "4",
+        "cover": "https://i.ibb.co/6sphCCh/information-articles-blogging-device-screen.jpg",
+        "title": "Space Exploration: The Next Frontier",
+        "author": "Noah Walker",
+        "author-img": "https://i.ibb.co/Cz9rY8F/young-woman-taking-photos.jpg",
+        "post-date": "2024-04-10",
+        "reading time": "12 min",
+        "hashtag": ["space", "science", "exploration"]
+    },
+    {
+        "Id": "5",
+        "cover": "https://i.ibb.co/P1MqcjV/smiling-man-surfing-net-laptop-while-drinking-coffee-bar.jpg",
+        "title": "The Psychology of Success",
+        "author": "Emma Johnson",
+        "author-img": "https://i.ibb.co/f4MCDyV/portrait-cheerful-photographer-studio.jpg",
+        "post-date": "2024-05-25",
+        "reading time": "6 min",
+        "hashtag": ["psychology", "self-improvement", "motivation"]
+    }
+]

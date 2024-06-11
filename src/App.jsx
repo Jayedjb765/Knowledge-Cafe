@@ -1,5 +1,6 @@
 
 import './App.css'
+import Header from './Components/Header/Header'
 
 function App() {
   
@@ -7,7 +8,7 @@ function App() {
   return (
     <>
      
-      <h1 className='text-6xl bg-slate-400'>Knowledge Cafe</h1>
+    <Header></Header>
     
     </>
   )
