@@ -6,7 +6,7 @@
         "author": "Ava Harper",
         "author_img": "https://i.ibb.co/f4MCDyV/portrait-cheerful-photographer-studio.jpg",
         "post_date": "2024-01-15",
-        "reading_time": "7 min",
+        "reading_time": 7,
         "hashtag": ["fantasy", "adventure", "magic"]
     },
     {
@@ -16,7 +16,7 @@
         "author": "Liam Bennett",
         "author_img": "https://i.ibb.co/Cz9rY8F/young-woman-taking-photos.jpg",
         "post_date": "2024-02-20",
-        "reading_time": "10 min",
+        "reading_time": 10,
         "hashtag": ["technology", "robotics", "innovation"]
     },
     {
@@ -26,7 +26,7 @@
         "author": "Olivia Martin",
         "author_img": "https://i.ibb.co/f4MCDyV/portrait-cheerful-photographer-studio.jpg",
         "post_date": "2024-03-05",
-        "reading_time": "8 min",
+        "reading_time": 8,
         "hashtag": ["food", "travel", "recipes"]
     },
     {
@@ -36,7 +36,7 @@
         "author": "Noah Walker",
         "author_img": "https://i.ibb.co/Cz9rY8F/young-woman-taking-photos.jpg",
         "post_date": "2024-04-10",
-        "reading_time": "12 min",
+        "reading_time": 12,
         "hashtag": ["space", "science", "exploration"]
     },
     {
@@ -46,7 +46,7 @@
         "author": "Emma Johnson",
         "author_img": "https://i.ibb.co/f4MCDyV/portrait-cheerful-photographer-studio.jpg",
         "post_date": "2024-05-25",
-        "reading_time": "6 min",
+        "reading_time": 6,
         "hashtag": ["psychology", "self-improvement", "motivation"]
     }
 ]
